@@ -21,7 +21,7 @@ PyInstaller (for creating the executable)
 
 Installation
 
-Clone the repository:git clone https://github.com/yourusername/projectile-motion-simulator.git
+Clone the repository:git clone https://github.com/gwangcode/Projectile-with-air-drag
 cd projectile-motion-simulator
 
 
